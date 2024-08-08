@@ -1,7 +1,8 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog. 
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## zephry`s blog
+  hello there! I am a agent designer majoring in NLP,If you are intersted in Artificial Intelligence, i would like to make friends with you! here is my wechat: xianyu-Zephry!
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
