@@ -8,7 +8,6 @@ keywords:
   - SGD, Momentum, Adam, and other optimizers
   - Data augmentation
   - ResNet and DenseNet architectures
-  p21
 ...
 <!-- 上来先总结这篇文档目的，要不然读者很难花费attention-->
 <!--  -->
