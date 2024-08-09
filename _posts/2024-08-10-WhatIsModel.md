@@ -1,3 +1,4 @@
+# glance at the model
 ---
 title: "glance at the model"
 keywords:
@@ -9,8 +10,6 @@ keywords:
   - Data augmentation
   - ResNet and DenseNet architectures
 ...
-<!-- 上来先总结这篇文档目的，要不然读者很难花费attention-->
-<!--  -->
 
 # Preface
 如果你是一个从0开始学习deep learning的初学者（新手村小白）那么这篇文章一定可以带你从最简单的角度切入the  world of deep learing
