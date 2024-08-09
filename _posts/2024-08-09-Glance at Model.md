@@ -28,7 +28,7 @@ khan Academy  https://www.khanacademy.org/
 # brief history
 stage0:
 不知道是否您是否在高中阶段学习生物过程中接触到了神经元
-![Natural and Artificial neurons](/images/realneuron.png)
+![Natural and Artificial neurons](images/realneuron.png)
 xx对自然neuron抽象表示为 多个输入经过一个圆 处理得到输出。
 stage1:
 such a machine—a machine capable of perceiving, recognizing and identifying its surroundings without any human training or control
@@ -38,7 +38,7 @@ stage2:
 
 # traditional program vensus 
 作为程序员的我们日常工作就是编写一段program 通过我们拿到的数据经由这段program拿到结果完成KPI.
-![a traditional program](/images/traditionalprogram.png)
+![a traditional program](images/traditionalprogram.png)
 ## weight assignment
 ![weight](weighassignment.png)
 理解以下两点
@@ -46,10 +46,10 @@ stage2:
 - [ ] weight assignment : a particular choice of values for those variables
 基于第一个阶段，这里我们将program换成Model（a special kind of program）
 这张图片告诉我们weight 和input同时传递给Model处理，其实weights are in a sense another kind of input
-## nachanism for maximize the performance
+## mechanism for maximize the performance
 图片刻画了a procedure could be made entirely automatic and...a machine so programmed would “learn” from its experience.
 这里我们看到模型的一开始响应的结果并不一定符合我们的要求，进行性能评估后 我们通过改变weight values，也就是进行weight assignment这个过程 ，实现模型整体输入的修改从而改进模型相应的结果，不断的改进最终得到我们想要的结果（性能）
-![performance.png](/images/performance.png)
+![performance.png](images/performance.png)
 - [ ] performance:人为设定对特定任务的评判标准
 ### 说点远的
 一旦model修炼成功,weight认为是model本身的一部分，就不再变动了。
@@ -57,7 +57,7 @@ stage2:
 ## train loop
 
 
-![loop](/images/train_loop.png)
+![a train loop](images/train_loop.png)
 ## A simple NN 🗄
 muliti-input------>Recurrent NeuralNet----→ Output
 
