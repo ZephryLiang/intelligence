@@ -40,7 +40,7 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Set up environment variables
-        run: echo "PAGES_REPO_NWO=Zephry Liang/intelligence" >> $GITHUB_ENV
+        run: echo "PAGES_REPO_NWO=ZephryLiang/intelligence" >> $GITHUB_ENV
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
