@@ -31,6 +31,7 @@ stage2:
 # traditional program vensus 
 作为程序员的我们日常工作就是编写一段program 通过我们拿到的数据经由这段program拿到结果完成KPI.
 ![a traditional program](images/chapter1/traditionalprogram.png)
+![a traditional program](../images/chapter1/traditionalprogram.png)
 ## weight assignment
 ![weight](images/chapter1/weighassignment.png)
 理解以下两点
