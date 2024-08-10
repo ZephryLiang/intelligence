@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "glance at the model!"
+---
 # glance at the model
 
 # Preface
